@@ -1,7 +1,7 @@
 {
-  "name": "ZoroNoob",
+  "name": "DekuPlayz",
   "bot-account": {
-    "username": "ZoroNoob",
+    "username": "DekuPlayz",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "zoro0000"
+      "password": "deku0000"
     },
     "anti-afk": {
       "enabled": true,
